@@ -13,4 +13,5 @@ using many planes to design each leg
   I've tried to improve movement by create joints to make it more Human-Mimicking Robot
 
   <br>
-  ![robotic leg joint](https://github.com/ReemaAlzhrani/designed-Robotic-LegJoints/assets/154990107/2e5a67df-6abb-42ee-838d-a22c96161cfc)
+ ![robotic leg joint](https://github.com/ReemaAlzhrani/designed-Robotic-LegJoints/assets/154990107/2e5a67df-6abb-42ee-838d-a22c96161cfc)
+.
