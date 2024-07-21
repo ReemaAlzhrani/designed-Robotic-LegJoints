@@ -7,7 +7,7 @@ first , I've use OnShape design this project
 using many planes to design each leg 
 <br>
 - plane at knee and hip .<br>
-- plane at the middle of the leg to have a symmetric .<br>
+- plane at the middle of the leg to have a symmetric look .<br>
 
   ## Movement
   I've tried to improve movement by create joints to make it more Human-Mimicking Robot
